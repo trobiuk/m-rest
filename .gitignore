@@ -1,0 +1,10 @@
+# for MacBook:
+.DS_store
+.AppleDouble
+.LSOverride
+
+# for Visual Studio
+.vs
+
+node_modules/
+app/css/
